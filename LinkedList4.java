@@ -7,7 +7,7 @@ class LinkedList4 {
     static Node head;
 
     class Node {
-        int data;
+        int data;\\ variable initialisation
         Node next;
 
         Node(int d) {
