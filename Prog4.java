@@ -27,7 +27,8 @@ public class Prog4 {
         {
             a[c++] = 0;
         }
-        for (int i=0;i<c;i++)
+        int d=c;
+        for (int i=0;i<d;i++)
         {
             System.out.print(a[i]+" ");
         }
