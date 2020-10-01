@@ -6,7 +6,7 @@ import java.io.*;
 
 class Node 
 { 
-    int data; 
+    int data; \\ variable initialisation
     Node next; 
     Node(int d)  { data = d;  next = null; } 
 } 
