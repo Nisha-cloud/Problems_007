@@ -10,6 +10,7 @@ public class Prog4 {
         Scanner sc = new Scanner(System.in);
         n =sc.nextInt();
         int[] a = new int[n];
+        String c="CC putar";
         
       for ( int i=0;i<n;i++)
         {
