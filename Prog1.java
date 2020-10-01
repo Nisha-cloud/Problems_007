@@ -7,7 +7,7 @@ public class Prog1 {
        int n;
        Scanner sc = new Scanner(System.in);
        n =sc.nextInt();
-       int[] a = new int[n];
+       int[] a = new int[n];blah blah blah
      for (int i=0;i<n;i++)
        {
            a[i]=sc.nextInt();
