@@ -6,6 +6,7 @@ public class Prog3 {
         int n;
         Scanner sc = new Scanner(System.in);
         n =sc.nextInt();
+        int x =0:
         int[] a = new int[n];
         int i;
       for ( i=0;i<n;i++)
